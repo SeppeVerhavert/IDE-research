@@ -51,6 +51,7 @@
 
 
 ![Brackets](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png)
+
 [Click this link to go to brackets.io](http://brackets.io/)
 
 > The free Brackets software is a must try tool for front-end developers.
