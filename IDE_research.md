@@ -1,3 +1,61 @@
+# Research on different IDE's
+
+
+### 1. Visual Studio Code
+
+|Pros|Cons  |
+|--|--|
+| Visual Studio Code is possibly the best JavaScript ide for Windows, Mac, and Linux. | Interface is one major difference. |
+| It provides great syntax highlighting and auto-complete with IntelliSense based on variable types, function definitions, and imported modules. | Directory structure is insane with the number of files in the directory tree. |
+| It allows you to debug code by launching or attaching to your running apps debug with breakpoints, call stacks, and an interactive console. |  |
+
+### 2. Atom by Github
+
+| Pros | Cons |
+|--|--|
+| Easily and extensively customizable. Customization beyond that afforded by plugins provided by the Atom community must be done via writing plugins or scripts in CoffeeScript or JavaScript. | Slow to start, although with the release of version 1.3.0 the start time has been supposedly cut by 20-30%. |
+| Intuitive and easy to learn. |  |
+| Support for a wide range of different computer languages. |  |
+| Very feature-packed, so feature packed it can be used as both a text editor and an IDE. |  |
+
+### 3. Code::Blocks
+
+| Pros | Cons |
+|--|--|
+| Has code linting for its three supported languages. | Only supports three programming languages: C, C++ and Fortran. |
+| Easy to install on both distributions. | Fairly infrequently updated. New releases come out once every few years.|
+| Fairly lightweight.  |  |
+| Feature-packed. |  |
+
+
+### 4. Eclipse
+
+| Pros | Cons |
+|--|--|
+| Written in Java, so it is incredibly cross-platform. | Most distributions either do not have it in their official repositories or keep fairly old versions in their official repositories. |
+| Has a cross-distribution 64-bit AppImage. | Fairly heavy on system resource usage. Slow to boot. |
+|  | Extra plugins are required in order to program in other programming languages. |
+
+
+### 5. LightTable
+
+| Pros | Cons |
+|--|--|
+| Fairly feature-packed, keeping in mind its being limited, in its intended use, to web development. | Requires fairly out-of-date libraries to run, if installed the old-fashion way using a package manager. |
+| Easy to obtain on most Linux distributions thanks to its AppImage. | Has a limited set of intended uses. |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![Brackets](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png)
 # Why would I use Brackets?
