@@ -114,16 +114,16 @@
 
 > Brackets is **built for web development** and that's where it excels at out of the box. Other languages that have a CodeMirror mode can be added as well. language support plugins can be added.
 
-<!DOCTYPE html>
-	<html>
-	<body>
-		<h1 style="background-color:DodgerBlue;">Hello World</h1>
-			<p style="background-color:Tomato;">	
-			random words 
-			</p>
-	</body>
-	</html>
-
+```<!DOCTYPE html>
+<html>
+<body>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">	
+random words 
+</p>
+</body>
+</html>
+´´´
 
 
 
