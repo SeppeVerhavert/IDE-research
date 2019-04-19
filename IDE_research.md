@@ -19,7 +19,7 @@
 | Pros | Cons |
 |--|--|
 | Easily and extensively customizable. Customization beyond that afforded by plugins provided by the Atom community must be done via writing plugins or scripts in CoffeeScript or JavaScript. | Slow to start, although with the release of version 1.3.0 the start time has been supposedly cut by 20-30%. |
-| Intuitive and easy to learn. | It cannot handle files bigger than a couple MB's |
+| Intuitive and easy to learn. |  |
 | Support for a wide range of different computer languages. |  |
 | Very feature-packed, so feature packed it can be used as both a text editor and an IDE. |  |
 
