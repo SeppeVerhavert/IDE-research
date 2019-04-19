@@ -75,14 +75,11 @@
 >Brackets will **automatically refresh** the browser and load the latest saved version of a file open in the browser. This works with php as well. Editing a css will even highlight the tag that's currently being worked on. 
 
 
-
- * Free, open source and cross-platform and is actively developed
-
->Brackets is entirely **free** and open source and is being actively maintained and developed.
-
- * Lightweight
-
-> Brackets is easy on memory usage and it starts up quickly.
+ * Open source
+	> * Brackets is entirely **free** 
+	> * Is being actively maintained and developed. 
+	> * Cross-platform and in constant active development
+	> * Brackets is easy on memory usage and it starts up quickly.
 
  * Can be hacked by any front-end developer
 
