@@ -3,7 +3,9 @@
 
 
 ## 1. Visual Studio Code
+
 ![Visual Studio Code](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
+
 |Pros|Cons  |
 |--|--|
 | Visual Studio Code is possibly the best JavaScript ide for Windows, Mac, and Linux. | Interface is one major difference. |
@@ -36,6 +38,7 @@
 ## 4. Eclipse
 
 ![Visual Studio Code](https://www.eclipse.org/artwork/images/v2/logo-800x188.png)
+
 | Pros | Cons |
 |--|--|
 | Written in Java, so it is incredibly cross-platform. | Most distributions either do not have it in their official repositories or keep fairly old versions in their official repositories. |
