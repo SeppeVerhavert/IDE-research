@@ -76,10 +76,11 @@
 
 
  * Open source
-	> * Brackets is entirely **free** 
-	> * Is being actively maintained and developed. 
-	> * Cross-platform and in constant active development
-	> * Brackets is easy on memory usage and it starts up quickly.
+	>    * Brackets is entirely **free** .
+	>    * Is actively maintained and in constant development.
+	>    * Cross-platform.
+	>    * Brackets is easy on memory usage and it starts up quickly.
+
 
  * Can be hacked by any front-end developer
 
