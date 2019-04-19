@@ -8,9 +8,9 @@
 
 |Pros|Cons  |
 |--|--|
-| Visual Studio Code is possibly the best JavaScript ide for Windows, Mac, and Linux. | Interface is one major difference. |
-| It provides great syntax highlighting and auto-complete with IntelliSense based on variable types, function definitions, and imported modules. | Directory structure is insane with the number of files in the directory tree. |
-| It allows you to debug code by launching or attaching to your running apps debug with breakpoints, call stacks, and an interactive console. |  |
+| Visual Studio Code is possibly the best JavaScript ide for Windows, Mac, and Linux. | The selection powers of Code are currently a little lacking |
+| It provides great syntax highlighting and auto-complete with IntelliSense based on variable types, function definitions, and imported modules. | Project wide searches are slow |
+| It allows you to debug code by launching or attaching to your running apps debug with breakpoints, call stacks, and an interactive console. | There is no package manager yet for 3rd party extensibility. |
 
 ## 2. Atom by Github
 
@@ -19,7 +19,7 @@
 | Pros | Cons |
 |--|--|
 | Easily and extensively customizable. Customization beyond that afforded by plugins provided by the Atom community must be done via writing plugins or scripts in CoffeeScript or JavaScript. | Slow to start, although with the release of version 1.3.0 the start time has been supposedly cut by 20-30%. |
-| Intuitive and easy to learn. |  |
+| Intuitive and easy to learn. | It cannot handle files bigger than a couple MB's |
 | Support for a wide range of different computer languages. |  |
 | Very feature-packed, so feature packed it can be used as both a text editor and an IDE. |  |
 
