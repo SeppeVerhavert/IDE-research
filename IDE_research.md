@@ -1,8 +1,8 @@
-
 # Research on different IDE's
 
 
 ### 1. Visual Studio Code
+![Visual Studio Code](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
 
 |Pros|Cons  |
 |--|--|
@@ -12,6 +12,8 @@
 
 ### 2. Atom by Github
 
+![Visual Studio Code](https://miro.medium.com/max/1200/1*kzkV32UkbMATNABltvfaKA.jpeg)
+
 | Pros | Cons |
 |--|--|
 | Easily and extensively customizable. Customization beyond that afforded by plugins provided by the Atom community must be done via writing plugins or scripts in CoffeeScript or JavaScript. | Slow to start, although with the release of version 1.3.0 the start time has been supposedly cut by 20-30%. |
@@ -20,6 +22,8 @@
 | Very feature-packed, so feature packed it can be used as both a text editor and an IDE. |  |
 
 ### 3. Code::Blocks
+
+![Visual Studio Code](http://dcevolution.sourceforge.net/screens/P005.png)
 
 | Pros | Cons |
 |--|--|
@@ -31,6 +35,8 @@
 
 ### 4. Eclipse
 
+![Visual Studio Code](https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo-730x350.png)
+
 | Pros | Cons |
 |--|--|
 | Written in Java, so it is incredibly cross-platform. | Most distributions either do not have it in their official repositories or keep fairly old versions in their official repositories. |
@@ -40,10 +46,13 @@
 
 ### 5. LightTable
 
+![Visual Studio Code](https://i.ytimg.com/vi/gL-RFBRE-HQ/maxresdefault.jpg)
+
 | Pros | Cons |
 |--|--|
 | Fairly feature-packed, keeping in mind its being limited, in its intended use, to web development. | Requires fairly out-of-date libraries to run, if installed the old-fashion way using a package manager. |
 | Easy to obtain on most Linux distributions thanks to its AppImage. | Has a limited set of intended uses. |
+
 
 
 
