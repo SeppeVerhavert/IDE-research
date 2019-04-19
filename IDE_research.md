@@ -2,7 +2,7 @@
 # Research on different IDE's
 
 
-### 1. Visual Studio Code
+## 1. Visual Studio Code
 ![Visual Studio Code](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
 |Pros|Cons  |
 |--|--|
@@ -10,7 +10,7 @@
 | It provides great syntax highlighting and auto-complete with IntelliSense based on variable types, function definitions, and imported modules. | Directory structure is insane with the number of files in the directory tree. |
 | It allows you to debug code by launching or attaching to your running apps debug with breakpoints, call stacks, and an interactive console. |  |
 
-### 2. Atom by Github
+## 2. Atom by Github
 
 ![Visual Studio Code](https://miro.medium.com/max/1200/1*kzkV32UkbMATNABltvfaKA.jpeg)
 
@@ -21,7 +21,7 @@
 | Support for a wide range of different computer languages. |  |
 | Very feature-packed, so feature packed it can be used as both a text editor and an IDE. |  |
 
-### 3. Code::Blocks
+## 3. Code::Blocks
 
 ![Visual Studio Code](http://dcevolution.sourceforge.net/screens/P005.png)
 
@@ -33,7 +33,7 @@
 | Feature-packed. |  |
 
 
-### 4. Eclipse
+## 4. Eclipse
 
 ![Visual Studio Code](https://www.eclipse.org/artwork/images/v2/logo-800x188.png)
 | Pros | Cons |
@@ -43,7 +43,7 @@
 |  | Extra plugins are required in order to program in other programming languages. |
 
 
-### 5. LightTable
+## 5. LightTable
 
 ![Visual Studio Code](http://lighttable.com/images/020/ltlogo.png)
 
