@@ -1,3 +1,3 @@
 Some research about different IDE's
 
-https://seppeverhavert.github.io/IDE-research/
+https://github.com/SeppeVerhavert/IDE-research/blob/master/IDE_research.md
